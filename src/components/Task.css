@@ -1,0 +1,12 @@
+.App > div {
+    border: 1px black solid;
+    margin: 5px;
+    width: 100%;
+    padding: 10px;
+}
+.App > div:first-child {
+    border: none;
+}
+.App > div > button {
+    margin-left: 10px;
+}
